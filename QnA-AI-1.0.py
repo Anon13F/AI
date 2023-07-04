@@ -58,7 +58,7 @@ while True:
     for i in range(0,2):
         if UserInput == dataJwb_i[i]:
             speak("Saya adalah assistent Virtual berbasis AI bernama Miku yang di ciptakan oleh Anon13F")
-            print("Miku: Saya adalah assistent Virtual berbasis AI bernama Miku yang di ciptakan oleh Raffi")
+            print("Miku: Saya adalah assistent Virtual berbasis AI bernama Miku yang di ciptakan oleh Anon13F")
 
     # Petanyaan bebas
     model_response = ChatGPT(UserInput)
