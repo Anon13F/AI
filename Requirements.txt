@@ -1,0 +1,4 @@
+Sebelum menjalankan program QnA-AI-1.0.py anda harus mendownload beberapa library yaitu
+openai > pip install openai
+pyglet > pip install pyglet
+gtts   > pip install gTTS
